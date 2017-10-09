@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/build/java/vuforia/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc8f215f7814c3bb08f45cba9659e25db9e5f1e4">
+        <dex dex="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_5e817dbcdb42316ab4a68f2f7a172d1b7240fceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5179e8928c5c51bb46dbc8010280f62715eaf967">
+        <dex dex="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1e529df67793c8c95d60ae8c2172e96651abea2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cbd2e1d7651ade2cb36bce50395906e6766de8ef/classes.dex" />
+    </item>
+
+</items>

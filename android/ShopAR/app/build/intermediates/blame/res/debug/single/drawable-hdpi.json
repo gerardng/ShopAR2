@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/ShopAR/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/ShopAR/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/ShopAR/app/build/intermediates/res/merged/debug/drawable-hdpi/logo.png",
+        "source": "/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/ShopAR/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/build/intermediates/res/merged/debug/drawable-hdpi/logo.png",
+        "source": "/Users/gerardng/Documents/Projects/Android/vuforia-sdk-android-6-5-19/android/ShopAR/app/src/main/res/drawable-hdpi/logo.png"
+    }
+]
